@@ -2,9 +2,9 @@
   "name": "WebRTC-Example",
   "version": "1.0.0",
   "description": "An 'as simple as it gets' WebRTC example.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server/server.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
